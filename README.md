@@ -9,6 +9,7 @@ This project tests some of the functionalities of the demo banking website. (htt
 - Apache Maven 3.5+ (Follow this guide to install maven: https://mkyong.com/maven/how-to-install-maven-in-windows/)
 - IntelliJ IDE (Community)
 - Chrome, Firefox, IE latest version.
+- Open terminal from IDE, type "mvn clean verify"
 
 ♫ Select browser/ test classes to run:
 
