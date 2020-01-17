@@ -1,0 +1,315 @@
+2020-01-17 20:17:07.758 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:17:08.387 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:17:10.687 [INFO] Click 'Login' button
+2020-01-17 20:17:16.121 [INFO] Click 'Create new Customer' button
+2020-01-17 20:17:16.899 [INFO] Type Han Ho into 'Customer name' text box
+2020-01-17 20:17:17.086 [INFO] Click 'Gender' radio button
+2020-01-17 20:17:17.385 [INFO] Type 02/01/1993 into 'Date of Birth' date time picker
+2020-01-17 20:17:17.927 [INFO] Type 285 CMT8 into 'Address' Text Area
+2020-01-17 20:17:18.650 [INFO] Type Ho Chi Minh into 'City' text box 
+2020-01-17 20:17:19.048 [INFO] Type NA into 'State' text box 
+2020-01-17 20:17:19.426 [INFO] Type 700000 into 'PIN' text box 
+2020-01-17 20:17:19.833 [INFO] Type 0988928881 into 'Phone number' text box 
+2020-01-17 20:17:20.365 [INFO] Type Auto_20200117_201719@gmail.com into 'Email' text box 
+2020-01-17 20:17:20.781 [INFO] Type 123456789 into 'Password' text box 
+2020-01-17 20:17:22.675 [INFO] Click 'Submit' button
+2020-01-17 20:17:22.761 [INFO] The actual 'Customer Name' value is Han Ho. The expected 'Customer Name' value is Han Ho
+2020-01-17 20:17:22.829 [INFO] The actual 'Gender' value is f. The expected 'Gender' value is f
+2020-01-17 20:17:22.883 [INFO] The actual 'Birthdate' value is 02/01/1993. The expected 'Birthdate' value is 02/01/1993
+2020-01-17 20:17:22.951 [INFO] The actual 'Address' value is 285 CMT8. The expected 'Address' value is 285 CMT8
+2020-01-17 20:17:23.007 [INFO] The actual 'City' value is Ho Chi Minh. The expected 'City' value is Ho Chi Minh
+2020-01-17 20:17:23.063 [INFO] The actual 'State' value is NA. The expected 'State' value is NA
+2020-01-17 20:17:23.120 [INFO] The actual 'Pin' value is 700000. The expected 'Pin' value is 700000
+2020-01-17 20:17:23.178 [INFO] The actual 'Mobile No.' value is 0988928881. The expected 'Mobile No.' value is 0988928881
+2020-01-17 20:17:23.178 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:17:23.231 [INFO] The actual Table Heading is Customer Registered Successfully!!!. The expected Table Heading is Customer Registered Successfully!!!
+2020-01-17 20:17:29.108 [INFO] Click 'Create new Customer' button
+2020-01-17 20:17:30.035 [INFO] Type 43754 into 'Customer Id' text box
+2020-01-17 20:17:30.401 [INFO] Select Current from 'Deposit' dropdown
+2020-01-17 20:17:31.184 [INFO] Type 10000000 into 'Deposit' text box 
+2020-01-17 20:17:32.809 [INFO] Click 'Submit' button
+2020-01-17 20:17:32.885 [INFO] The actual 'Customer ID' field is 43754. The expected 'Customer ID' field is 43754
+2020-01-17 20:17:32.948 [INFO] The actual 'Customer Name' field is Han Ho. The expected 'Customer Name' field is Han Ho
+2020-01-17 20:17:33.010 [INFO] The actual 'Email' field is Auto_20200117_201719@gmail.com. The expected 'Email' field is Auto_20200117_201719@gmail.com
+2020-01-17 20:17:33.076 [INFO] The actual 'Account Type' value is Current. The expected 'Account Type' value is Current
+2020-01-17 20:17:33.142 [INFO] The actual 'Date of Opening' field is 2020-01-17. The expected 'Date of Opening' field is 2020-01-17
+2020-01-17 20:17:33.220 [INFO] The actual 'Current Amount' value is 10000000. The expected 'Current Amount' value is 10000000
+2020-01-17 20:17:33.221 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:17:33.296 [INFO] The actual Table Heading is Account Generated Successfully!!!. The expected Table Heading is Account Generated Successfully!!!
+2020-01-17 20:17:38.849 [INFO] Click 'Deposit' button
+2020-01-17 20:17:39.710 [INFO] Type 75103 into 'Account ID' text box
+2020-01-17 20:17:40.155 [INFO] Type 500000 into 'Amount' text box 
+2020-01-17 20:17:40.811 [INFO] Type Test test into 'Description' text box 
+2020-01-17 20:17:42.234 [INFO] Click 'Submit' button
+2020-01-17 20:17:42.299 [INFO] The actual 'Account No' value is 75103. The expected 'Account No' value is 75103
+2020-01-17 20:17:42.365 [INFO] The actual 'Amount Credited' value is 500000. The expected 'Amount Credited' value is 500000
+2020-01-17 20:17:42.414 [INFO] The actual 'Description' field is Test test. The expected 'Description' field is Test test
+2020-01-17 20:17:42.471 [INFO] The actual 'Type of Transaction' field is Deposit. The expected 'Type of Transaction' field is Deposit
+2020-01-17 20:17:42.561 [INFO] The actual 'Current Balance' field is 10500000. The expected 'Current Balance' field is 10500000
+2020-01-17 20:17:42.561 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:17:42.616 [INFO] The actual Table Heading is Transaction details of Deposit for Account 75103. The expected Table Heading is Transaction details of Deposit for Account 75103
+2020-01-17 20:31:02.928 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:31:03.530 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:31:05.400 [INFO] Click 'Login' button
+2020-01-17 20:32:21.091 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:32:22.065 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:32:24.331 [INFO] Click 'Login' button
+2020-01-17 20:32:26.819 [INFO] Switch to iframe and click on 'Close' button
+2020-01-17 20:32:28.140 [INFO] Click 'Create new Customer' button
+2020-01-17 20:32:28.992 [INFO] Type Han Ho into 'Customer name' text box
+2020-01-17 20:32:29.197 [INFO] Click 'Gender' radio button
+2020-01-17 20:32:29.532 [INFO] Type 02/01/1993 into 'Date of Birth' date time picker
+2020-01-17 20:32:30.237 [INFO] Type 285 CMT8 into 'Address' Text Area
+2020-01-17 20:32:30.885 [INFO] Type Ho Chi Minh into 'City' text box 
+2020-01-17 20:32:31.350 [INFO] Type NA into 'State' text box 
+2020-01-17 20:32:31.838 [INFO] Type 700000 into 'PIN' text box 
+2020-01-17 20:32:32.316 [INFO] Type 0988928881 into 'Phone number' text box 
+2020-01-17 20:32:32.966 [INFO] Type Auto_20200117_203232@gmail.com into 'Email' text box 
+2020-01-17 20:32:33.459 [INFO] Type 123456789 into 'Password' text box 
+2020-01-17 20:32:34.996 [INFO] Click 'Submit' button
+2020-01-17 20:32:35.080 [INFO] The actual 'Customer Name' value is Han Ho. The expected 'Customer Name' value is Han Ho
+2020-01-17 20:32:35.145 [INFO] The actual 'Gender' value is f. The expected 'Gender' value is f
+2020-01-17 20:32:35.205 [INFO] The actual 'Birthdate' value is 02/01/1993. The expected 'Birthdate' value is 02/01/1993
+2020-01-17 20:32:35.286 [INFO] The actual 'Address' value is 285 CMT8. The expected 'Address' value is 285 CMT8
+2020-01-17 20:32:35.349 [INFO] The actual 'City' value is Ho Chi Minh. The expected 'City' value is Ho Chi Minh
+2020-01-17 20:32:35.426 [INFO] The actual 'State' value is NA. The expected 'State' value is NA
+2020-01-17 20:32:35.490 [INFO] The actual 'Pin' value is 700000. The expected 'Pin' value is 700000
+2020-01-17 20:32:35.555 [INFO] The actual 'Mobile No.' value is 0988928881. The expected 'Mobile No.' value is 0988928881
+2020-01-17 20:32:35.555 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:32:35.619 [INFO] The actual Table Heading is Customer Registered Successfully!!!. The expected Table Heading is Customer Registered Successfully!!!
+2020-01-17 20:32:37.665 [INFO] Switch to iframe and click on 'Close' button
+2020-01-17 20:32:38.776 [INFO] Click 'Create new Customer' button
+2020-01-17 20:32:39.634 [INFO] Type 68952 into 'Customer Id' text box
+2020-01-17 20:32:39.896 [INFO] Select Current from 'Deposit' dropdown
+2020-01-17 20:32:40.362 [INFO] Type 10000000 into 'Deposit' text box 
+2020-01-17 20:32:42.294 [INFO] Click 'Submit' button
+2020-01-17 20:32:42.345 [INFO] The actual 'Customer ID' field is 68952. The expected 'Customer ID' field is 68952
+2020-01-17 20:32:42.391 [INFO] The actual 'Customer Name' field is Han Ho. The expected 'Customer Name' field is Han Ho
+2020-01-17 20:32:42.476 [INFO] The actual 'Email' field is Auto_20200117_203232@gmail.com. The expected 'Email' field is Auto_20200117_203232@gmail.com
+2020-01-17 20:32:42.530 [INFO] The actual 'Account Type' value is Current. The expected 'Account Type' value is Current
+2020-01-17 20:32:42.582 [INFO] The actual 'Date of Opening' field is 2020-01-17. The expected 'Date of Opening' field is 2020-01-17
+2020-01-17 20:32:42.628 [INFO] The actual 'Current Amount' value is 10000000. The expected 'Current Amount' value is 10000000
+2020-01-17 20:32:42.628 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:32:42.672 [INFO] The actual Table Heading is Account Generated Successfully!!!. The expected Table Heading is Account Generated Successfully!!!
+2020-01-17 20:32:45.128 [INFO] Click 'Deposit' button
+2020-01-17 20:32:45.843 [INFO] Type 75104 into 'Account ID' text box
+2020-01-17 20:32:46.315 [INFO] Type 500000 into 'Amount' text box 
+2020-01-17 20:32:46.826 [INFO] Type Test test into 'Description' text box 
+2020-01-17 20:32:49.130 [INFO] Click 'Submit' button
+2020-01-17 20:32:49.168 [INFO] The actual 'Account No' value is 75104. The expected 'Account No' value is 75104
+2020-01-17 20:32:49.215 [INFO] The actual 'Amount Credited' value is 500000. The expected 'Amount Credited' value is 500000
+2020-01-17 20:32:49.271 [INFO] The actual 'Description' field is Test test. The expected 'Description' field is Test test
+2020-01-17 20:32:49.318 [INFO] The actual 'Type of Transaction' field is Deposit. The expected 'Type of Transaction' field is Deposit
+2020-01-17 20:32:49.407 [INFO] The actual 'Current Balance' field is 10500000. The expected 'Current Balance' field is 10500000
+2020-01-17 20:32:49.408 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:32:49.458 [INFO] The actual Table Heading is Transaction details of Deposit for Account 75104. The expected Table Heading is Transaction details of Deposit for Account 75104
+2020-01-17 20:40:38.242 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:40:38.636 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:40:43.936 [INFO] Click 'Login' button
+2020-01-17 20:41:04.738 [INFO] Click 'Create new Customer' button
+2020-01-17 20:41:05.416 [INFO] Type Han Ho into 'Customer name' text box
+2020-01-17 20:41:05.577 [INFO] Click 'Gender' radio button
+2020-01-17 20:41:05.794 [INFO] Type 02/01/1993 into 'Date of Birth' date time picker
+2020-01-17 20:41:06.124 [INFO] Type 285 CMT8 into 'Address' Text Area
+2020-01-17 20:41:06.519 [INFO] Type Ho Chi Minh into 'City' text box 
+2020-01-17 20:41:06.898 [INFO] Type NA into 'State' text box 
+2020-01-17 20:41:07.249 [INFO] Type 700000 into 'PIN' text box 
+2020-01-17 20:41:07.647 [INFO] Type 0988928881 into 'Phone number' text box 
+2020-01-17 20:41:08.172 [INFO] Type Auto_20200117_204107@gmail.com into 'Email' text box 
+2020-01-17 20:41:08.580 [INFO] Type 123456789 into 'Password' text box 
+2020-01-17 20:41:17.651 [INFO] Click 'Submit' button
+2020-01-17 20:41:17.696 [INFO] The actual 'Customer Name' value is Han Ho. The expected 'Customer Name' value is Han Ho
+2020-01-17 20:41:17.757 [INFO] The actual 'Gender' value is f. The expected 'Gender' value is f
+2020-01-17 20:41:17.797 [INFO] The actual 'Birthdate' value is 02/01/1993. The expected 'Birthdate' value is 02/01/1993
+2020-01-17 20:41:17.838 [INFO] The actual 'Address' value is 285 CMT8. The expected 'Address' value is 285 CMT8
+2020-01-17 20:41:17.886 [INFO] The actual 'City' value is Ho Chi Minh. The expected 'City' value is Ho Chi Minh
+2020-01-17 20:41:17.930 [INFO] The actual 'State' value is NA. The expected 'State' value is NA
+2020-01-17 20:41:17.978 [INFO] The actual 'Pin' value is 700000. The expected 'Pin' value is 700000
+2020-01-17 20:41:18.023 [INFO] The actual 'Mobile No.' value is 0988928881. The expected 'Mobile No.' value is 0988928881
+2020-01-17 20:41:18.024 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:41:18.066 [INFO] The actual Table Heading is Customer Registered Successfully!!!. The expected Table Heading is Customer Registered Successfully!!!
+2020-01-17 20:41:30.705 [INFO] Click 'Create new Customer' button
+2020-01-17 20:41:31.350 [INFO] Type 88791 into 'Customer Id' text box
+2020-01-17 20:41:31.561 [INFO] Select Current from 'Deposit' dropdown
+2020-01-17 20:41:31.871 [INFO] Type 10000000 into 'Deposit' text box 
+2020-01-17 20:41:36.424 [INFO] Click 'Submit' button
+2020-01-17 20:41:36.467 [INFO] The actual 'Customer ID' field is 88791. The expected 'Customer ID' field is 88791
+2020-01-17 20:41:36.505 [INFO] The actual 'Customer Name' field is Han Ho. The expected 'Customer Name' field is Han Ho
+2020-01-17 20:41:36.556 [INFO] The actual 'Email' field is Auto_20200117_204107@gmail.com. The expected 'Email' field is Auto_20200117_204107@gmail.com
+2020-01-17 20:41:36.596 [INFO] The actual 'Account Type' value is Current. The expected 'Account Type' value is Current
+2020-01-17 20:41:36.637 [INFO] The actual 'Date of Opening' field is 2020-01-17. The expected 'Date of Opening' field is 2020-01-17
+2020-01-17 20:41:36.682 [INFO] The actual 'Current Amount' value is 10000000. The expected 'Current Amount' value is 10000000
+2020-01-17 20:41:36.682 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:41:36.720 [INFO] The actual Table Heading is Account Generated Successfully!!!. The expected Table Heading is Account Generated Successfully!!!
+2020-01-17 20:41:40.754 [INFO] Click 'Deposit' button
+2020-01-17 20:41:41.372 [INFO] Type 75105 into 'Account ID' text box
+2020-01-17 20:41:41.664 [INFO] Type 500000 into 'Amount' text box 
+2020-01-17 20:41:42.001 [INFO] Type Test test into 'Description' text box 
+2020-01-17 20:41:43.910 [INFO] Click 'Submit' button
+2020-01-17 20:41:43.956 [INFO] The actual 'Account No' value is 75105. The expected 'Account No' value is 75105
+2020-01-17 20:41:44.004 [INFO] The actual 'Amount Credited' value is 500000. The expected 'Amount Credited' value is 500000
+2020-01-17 20:41:44.044 [INFO] The actual 'Description' field is Test test. The expected 'Description' field is Test test
+2020-01-17 20:41:44.085 [INFO] The actual 'Type of Transaction' field is Deposit. The expected 'Type of Transaction' field is Deposit
+2020-01-17 20:41:44.164 [INFO] The actual 'Current Balance' field is 10500000. The expected 'Current Balance' field is 10500000
+2020-01-17 20:41:44.165 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:41:44.205 [INFO] The actual Table Heading is Transaction details of Deposit for Account 75105. The expected Table Heading is Transaction details of Deposit for Account 75105
+2020-01-17 20:44:16.531 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:44:17.223 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:44:19.100 [INFO] Click 'Login' button
+2020-01-17 20:45:31.419 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:45:32.071 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:45:33.584 [INFO] Click 'Login' button
+2020-01-17 20:46:26.326 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:46:26.990 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:46:28.952 [INFO] Click 'Login' button
+2020-01-17 20:46:30.407 [INFO] Click 'Create new Customer' button
+2020-01-17 20:48:01.710 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:48:02.105 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:48:20.294 [INFO] Click 'Login' button
+2020-01-17 20:48:36.804 [INFO] Click 'Create new Customer' button
+2020-01-17 20:48:37.441 [INFO] Type Han Ho into 'Customer name' text box
+2020-01-17 20:48:37.596 [INFO] Click 'Gender' radio button
+2020-01-17 20:48:37.807 [INFO] Type 02/01/1993 into 'Date of Birth' date time picker
+2020-01-17 20:48:38.131 [INFO] Type 285 CMT8 into 'Address' Text Area
+2020-01-17 20:48:38.496 [INFO] Type Ho Chi Minh into 'City' text box 
+2020-01-17 20:48:38.856 [INFO] Type NA into 'State' text box 
+2020-01-17 20:48:39.195 [INFO] Type 700000 into 'PIN' text box 
+2020-01-17 20:48:39.552 [INFO] Type 0988928881 into 'Phone number' text box 
+2020-01-17 20:48:40.045 [INFO] Type Auto_20200117_204839@gmail.com into 'Email' text box 
+2020-01-17 20:48:40.436 [INFO] Type 123456789 into 'Password' text box 
+2020-01-17 20:48:46.174 [INFO] Click 'Submit' button
+2020-01-17 20:48:46.229 [INFO] The actual 'Customer Name' value is Han Ho. The expected 'Customer Name' value is Han Ho
+2020-01-17 20:48:46.280 [INFO] The actual 'Gender' value is f. The expected 'Gender' value is f
+2020-01-17 20:48:46.341 [INFO] The actual 'Birthdate' value is 02/01/1993. The expected 'Birthdate' value is 02/01/1993
+2020-01-17 20:48:46.401 [INFO] The actual 'Address' value is 285 CMT8. The expected 'Address' value is 285 CMT8
+2020-01-17 20:48:46.460 [INFO] The actual 'City' value is Ho Chi Minh. The expected 'City' value is Ho Chi Minh
+2020-01-17 20:48:46.523 [INFO] The actual 'State' value is NA. The expected 'State' value is NA
+2020-01-17 20:48:46.583 [INFO] The actual 'Pin' value is 700000. The expected 'Pin' value is 700000
+2020-01-17 20:48:46.644 [INFO] The actual 'Mobile No.' value is 0988928881. The expected 'Mobile No.' value is 0988928881
+2020-01-17 20:48:46.644 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:48:46.705 [INFO] The actual Table Heading is Customer Registered Successfully!!!. The expected Table Heading is Customer Registered Successfully!!!
+2020-01-17 20:48:49.127 [INFO] Click 'Create new Customer' button
+2020-01-17 20:48:49.867 [INFO] Type 12483 into 'Customer Id' text box
+2020-01-17 20:48:50.081 [INFO] Select Current from 'Deposit' dropdown
+2020-01-17 20:48:50.504 [INFO] Type 10000000 into 'Deposit' text box 
+2020-01-17 20:48:52.446 [INFO] Click 'Submit' button
+2020-01-17 20:48:52.517 [INFO] The actual 'Customer ID' field is 12483. The expected 'Customer ID' field is 12483
+2020-01-17 20:48:52.558 [INFO] The actual 'Customer Name' field is Han Ho. The expected 'Customer Name' field is Han Ho
+2020-01-17 20:48:52.605 [INFO] The actual 'Email' field is Auto_20200117_204839@gmail.com. The expected 'Email' field is Auto_20200117_204839@gmail.com
+2020-01-17 20:48:52.674 [INFO] The actual 'Account Type' value is Current. The expected 'Account Type' value is Current
+2020-01-17 20:48:52.752 [INFO] The actual 'Date of Opening' field is 2020-01-17. The expected 'Date of Opening' field is 2020-01-17
+2020-01-17 20:48:52.821 [INFO] The actual 'Current Amount' value is 10000000. The expected 'Current Amount' value is 10000000
+2020-01-17 20:48:52.821 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:48:52.876 [INFO] The actual Table Heading is Account Generated Successfully!!!. The expected Table Heading is Account Generated Successfully!!!
+2020-01-17 20:48:54.120 [INFO] Click 'Deposit' button
+2020-01-17 20:53:04.925 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:53:05.601 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:53:07.425 [INFO] Click 'Login' button
+2020-01-17 20:53:43.902 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:53:44.546 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:53:46.334 [INFO] Click 'Login' button
+2020-01-17 20:54:28.280 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:54:28.988 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:54:30.690 [INFO] Click 'Login' button
+2020-01-17 20:54:32.601 [INFO] Switch to iframe and click on 'Close' button
+2020-01-17 20:54:33.480 [INFO] Click 'Create new Customer' button
+2020-01-17 20:54:34.209 [INFO] Type Han Ho into 'Customer name' text box
+2020-01-17 20:54:34.537 [INFO] Click 'Gender' radio button
+2020-01-17 20:54:34.867 [INFO] Type 02/01/1993 into 'Date of Birth' date time picker
+2020-01-17 20:54:35.349 [INFO] Type 285 CMT8 into 'Address' Text Area
+2020-01-17 20:54:35.836 [INFO] Type Ho Chi Minh into 'City' text box 
+2020-01-17 20:54:36.282 [INFO] Type NA into 'State' text box 
+2020-01-17 20:54:36.788 [INFO] Type 700000 into 'PIN' text box 
+2020-01-17 20:54:37.253 [INFO] Type 0988928881 into 'Phone number' text box 
+2020-01-17 20:54:37.791 [INFO] Type Auto_20200117_205437@gmail.com into 'Email' text box 
+2020-01-17 20:54:38.196 [INFO] Type 123456789 into 'Password' text box 
+2020-01-17 20:54:39.979 [INFO] Click 'Submit' button
+2020-01-17 20:54:40.040 [INFO] The actual 'Customer Name' value is Han Ho. The expected 'Customer Name' value is Han Ho
+2020-01-17 20:54:40.087 [INFO] The actual 'Gender' value is f. The expected 'Gender' value is f
+2020-01-17 20:54:40.141 [INFO] The actual 'Birthdate' value is 02/01/1993. The expected 'Birthdate' value is 02/01/1993
+2020-01-17 20:54:40.194 [INFO] The actual 'Address' value is 285 CMT8. The expected 'Address' value is 285 CMT8
+2020-01-17 20:54:40.260 [INFO] The actual 'City' value is Ho Chi Minh. The expected 'City' value is Ho Chi Minh
+2020-01-17 20:54:40.305 [INFO] The actual 'State' value is NA. The expected 'State' value is NA
+2020-01-17 20:54:40.360 [INFO] The actual 'Pin' value is 700000. The expected 'Pin' value is 700000
+2020-01-17 20:54:40.410 [INFO] The actual 'Mobile No.' value is 0988928881. The expected 'Mobile No.' value is 0988928881
+2020-01-17 20:54:40.410 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:54:40.468 [INFO] The actual Table Heading is Customer Registered Successfully!!!. The expected Table Heading is Customer Registered Successfully!!!
+2020-01-17 20:54:42.117 [INFO] Switch to iframe and click on 'Close' button
+2020-01-17 20:54:43.176 [INFO] Click 'Create new Customer' button
+2020-01-17 20:54:43.928 [INFO] Type 53145 into 'Customer Id' text box
+2020-01-17 20:54:44.191 [INFO] Select Current from 'Deposit' dropdown
+2020-01-17 20:54:44.564 [INFO] Type 10000000 into 'Deposit' text box 
+2020-01-17 20:54:46.393 [INFO] Click 'Submit' button
+2020-01-17 20:54:46.449 [INFO] The actual 'Customer ID' field is 53145. The expected 'Customer ID' field is 53145
+2020-01-17 20:54:46.496 [INFO] The actual 'Customer Name' field is Han Ho. The expected 'Customer Name' field is Han Ho
+2020-01-17 20:54:46.546 [INFO] The actual 'Email' field is Auto_20200117_205437@gmail.com. The expected 'Email' field is Auto_20200117_205437@gmail.com
+2020-01-17 20:54:46.605 [INFO] The actual 'Account Type' value is Current. The expected 'Account Type' value is Current
+2020-01-17 20:54:46.660 [INFO] The actual 'Date of Opening' field is 2020-01-17. The expected 'Date of Opening' field is 2020-01-17
+2020-01-17 20:54:46.715 [INFO] The actual 'Current Amount' value is 10000000. The expected 'Current Amount' value is 10000000
+2020-01-17 20:54:46.715 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:54:46.765 [INFO] The actual Table Heading is Account Generated Successfully!!!. The expected Table Heading is Account Generated Successfully!!!
+2020-01-17 20:54:49.155 [INFO] Click 'Deposit' button
+2020-01-17 20:54:49.868 [INFO] Type 75107 into 'Account ID' text box
+2020-01-17 20:54:50.213 [INFO] Type 500000 into 'Amount' text box 
+2020-01-17 20:54:50.655 [INFO] Type Test test into 'Description' text box 
+2020-01-17 20:54:52.488 [INFO] Click 'Submit' button
+2020-01-17 20:54:52.529 [INFO] The actual 'Account No' value is 75107. The expected 'Account No' value is 75107
+2020-01-17 20:54:52.576 [INFO] The actual 'Amount Credited' value is 500000. The expected 'Amount Credited' value is 500000
+2020-01-17 20:54:52.636 [INFO] The actual 'Description' field is Test test. The expected 'Description' field is Test test
+2020-01-17 20:54:52.683 [INFO] The actual 'Type of Transaction' field is Deposit. The expected 'Type of Transaction' field is Deposit
+2020-01-17 20:54:52.768 [INFO] The actual 'Current Balance' field is 10500000. The expected 'Current Balance' field is 10500000
+2020-01-17 20:54:52.768 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:54:52.821 [INFO] The actual Table Heading is Transaction details of Deposit for Account 75107. The expected Table Heading is Transaction details of Deposit for Account 75107
+2020-01-17 20:58:18.137 [INFO] Type mngr241881 into 'user name' text box
+2020-01-17 20:58:19.197 [INFO] Type jUbYmYb into 'password' text box
+2020-01-17 20:58:21.417 [INFO] Click 'Login' button
+2020-01-17 20:58:24.248 [INFO] Switch to iframe and click on 'Close' button
+2020-01-17 20:58:25.312 [INFO] Click 'Create new Customer' button
+2020-01-17 20:58:26.415 [INFO] Type Han Ho into 'Customer name' text box
+2020-01-17 20:58:26.907 [INFO] Click 'Gender' radio button
+2020-01-17 20:58:27.648 [INFO] Type 02/01/1993 into 'Date of Birth' date time picker
+2020-01-17 20:58:28.467 [INFO] Type 285 CMT8 into 'Address' Text Area
+2020-01-17 20:58:29.105 [INFO] Type Ho Chi Minh into 'City' text box 
+2020-01-17 20:58:29.720 [INFO] Type NA into 'State' text box 
+2020-01-17 20:58:30.318 [INFO] Type 700000 into 'PIN' text box 
+2020-01-17 20:58:30.970 [INFO] Type 0988928881 into 'Phone number' text box 
+2020-01-17 20:58:31.823 [INFO] Type Auto_20200117_205830@gmail.com into 'Email' text box 
+2020-01-17 20:58:32.479 [INFO] Type 123456789 into 'Password' text box 
+2020-01-17 20:58:34.805 [INFO] Click 'Submit' button
+2020-01-17 20:58:34.898 [INFO] The actual 'Customer Name' value is Han Ho. The expected 'Customer Name' value is Han Ho
+2020-01-17 20:58:34.974 [INFO] The actual 'Gender' value is f. The expected 'Gender' value is f
+2020-01-17 20:58:35.058 [INFO] The actual 'Birthdate' value is 02/01/1993. The expected 'Birthdate' value is 02/01/1993
+2020-01-17 20:58:35.151 [INFO] The actual 'Address' value is 285 CMT8. The expected 'Address' value is 285 CMT8
+2020-01-17 20:58:35.236 [INFO] The actual 'City' value is Ho Chi Minh. The expected 'City' value is Ho Chi Minh
+2020-01-17 20:58:35.326 [INFO] The actual 'State' value is NA. The expected 'State' value is NA
+2020-01-17 20:58:35.411 [INFO] The actual 'Pin' value is 700000. The expected 'Pin' value is 700000
+2020-01-17 20:58:35.493 [INFO] The actual 'Mobile No.' value is 0988928881. The expected 'Mobile No.' value is 0988928881
+2020-01-17 20:58:35.494 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:58:35.571 [INFO] The actual Table Heading is Customer Registered Successfully!!!. The expected Table Heading is Customer Registered Successfully!!!
+2020-01-17 20:58:37.973 [INFO] Switch to iframe and click on 'Close' button
+2020-01-17 20:58:38.960 [INFO] Click 'Create new Customer' button
+2020-01-17 20:58:40.006 [INFO] Type 70669 into 'Customer Id' text box
+2020-01-17 20:58:40.570 [INFO] Select Current from 'Deposit' dropdown
+2020-01-17 20:58:41.423 [INFO] Type 10000000 into 'Deposit' text box 
+2020-01-17 20:58:43.555 [INFO] Click 'Submit' button
+2020-01-17 20:58:43.643 [INFO] The actual 'Customer ID' field is 70669. The expected 'Customer ID' field is 70669
+2020-01-17 20:58:43.716 [INFO] The actual 'Customer Name' field is Han Ho. The expected 'Customer Name' field is Han Ho
+2020-01-17 20:58:43.804 [INFO] The actual 'Email' field is Auto_20200117_205830@gmail.com. The expected 'Email' field is Auto_20200117_205830@gmail.com
+2020-01-17 20:58:43.891 [INFO] The actual 'Account Type' value is Current. The expected 'Account Type' value is Current
+2020-01-17 20:58:43.964 [INFO] The actual 'Date of Opening' field is 2020-01-17. The expected 'Date of Opening' field is 2020-01-17
+2020-01-17 20:58:44.046 [INFO] The actual 'Current Amount' value is 10000000. The expected 'Current Amount' value is 10000000
+2020-01-17 20:58:44.047 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:58:44.130 [INFO] The actual Table Heading is Account Generated Successfully!!!. The expected Table Heading is Account Generated Successfully!!!
+2020-01-17 20:58:45.950 [INFO] Switch to iframe and click on 'Close' button
+2020-01-17 20:58:47.517 [INFO] Click 'Deposit' button
+2020-01-17 20:58:48.570 [INFO] Type 75108 into 'Account ID' text box
+2020-01-17 20:58:49.448 [INFO] Type 500000 into 'Amount' text box 
+2020-01-17 20:58:50.304 [INFO] Type Test test into 'Description' text box 
+2020-01-17 20:58:52.519 [INFO] Click 'Submit' button
+2020-01-17 20:58:52.619 [INFO] The actual 'Account No' value is 75108. The expected 'Account No' value is 75108
+2020-01-17 20:58:52.703 [INFO] The actual 'Amount Credited' value is 500000. The expected 'Amount Credited' value is 500000
+2020-01-17 20:58:52.796 [INFO] The actual 'Description' field is Test test. The expected 'Description' field is Test test
+2020-01-17 20:58:52.893 [INFO] The actual 'Type of Transaction' field is Deposit. The expected 'Type of Transaction' field is Deposit
+2020-01-17 20:58:53.036 [INFO] The actual 'Current Balance' field is 10500000. The expected 'Current Balance' field is 10500000
+2020-01-17 20:58:53.037 [INFO] Get text of 'Table Heading' text
+2020-01-17 20:58:53.122 [INFO] The actual Table Heading is Transaction details of Deposit for Account 75108. The expected Table Heading is Transaction details of Deposit for Account 75108

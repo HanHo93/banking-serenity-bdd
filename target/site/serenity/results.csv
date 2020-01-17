@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create new customer","Verify new customer can be created","ERROR","2020-01-16T23:08:07.978+07:00[Asia/Bangkok]","0.0","46.1"
+"Authentication","User is able to sign up successfully","SUCCESS","2020-01-15T23:43:21.006+07:00[Asia/Bangkok]","0.0","12.88"
+"Authentication","Verify new customer can be created","SUCCESS","2020-01-16T12:41:25.06+07:00[Asia/Bangkok]","0.0","16.84"
